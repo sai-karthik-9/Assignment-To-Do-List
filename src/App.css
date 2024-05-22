@@ -1,0 +1,26 @@
+/* Renamed class names */
+* {
+    background-color: rgb(202, 118, 219);
+}
+
+.content-wrapper {
+    flex: 70%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.user-input, .output-display {
+    width: 700px;
+    height: 4rem;
+    border-radius: 20px;
+    font-size: large;
+    margin-top: 5px;
+}
+
+.submit-btn, .remove-btn {
+    height: 4rem;
+    border-radius: 20px;
+    margin-left: 5px;
+    cursor: pointer;
+    font-size: large;
+}
